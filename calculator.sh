@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #This is a simple script to calculate two numbers.
-
+# this is a comment
 # Taking  user input
 
 echo "Enter two numbers: "
